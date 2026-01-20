@@ -108,7 +108,7 @@ export default function LandingPage() {
             </h2>
             <h2 className="text-2xl md:text-3xl font-bold text-white tracking-widest uppercase drop-shadow-[0_2px_10px_rgba(255,255,255,0.5)]">
               
-              2nd
+              3rd
             </h2>
             
             {/* Main Title */}
@@ -120,6 +120,9 @@ export default function LandingPage() {
             <h2 className="text-4xl md:text-5xl font-black text-transparent bg-clip-text bg-gradient-to-r from-teal-200 to-cyan-400 tracking-tighter uppercase -mt-4">
               EXHIBIT
             </h2>
+            <h3 className="text-xl md:text-2xl font-bold text-white tracking-[0.5em] uppercase mt-2 drop-shadow-[0_2px_5px_rgba(34,211,238,0.8)]">
+              Special Edition
+            </h3>>
             
           </div>
 
